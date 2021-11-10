@@ -1,5 +1,5 @@
 <img src="https://github.com/GDSC-ELTE/GDSC-ELTE/blob/e4fbe8cd190c6d19fadc6e35e439f6b79bd25ec3/cover.jpg" alt="gdsc-elte-banner"><br>
-## 👋 Welcome to Google Developer Student Club - Eötvös Loránd University
+## 👋 Welcome to Google Developer Student Club - Eötvös Loránd University<hr>
 - 👯 We are open for collaborations!
 - 📫 Visit our [WEBSITE](https://gdsc.community.dev/eotvos-lorand-university/) and join as a member! 
 
@@ -9,7 +9,7 @@ Google Developer Student Clubs are university based community groups for student
 Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. 
 By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
-#### Connect with us at..
+### Connect with us at..
 <p>
 <a href="https://discord.gg/59dKkKKNJ9" target="blank">
 <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="socials"/></a> 
